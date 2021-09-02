@@ -1,5 +1,5 @@
 # Hi there 👋 I am Md Maherukh Ajmal 🙌
-<a href=https://www.linkedin.com/in/m-ajmal/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <a href=https://twitter.com/ajmal_maherukh> <img src="https://img.shields.io/badge/-Twitter-0e76a8?style=plastic&logo=Twitter"> </a> <img src="https://komarev.com/ghpvc/?username=Maherukh&color=blue"> <br>
+<a href=https://www.linkedin.com/in/m-ajmal/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <a href=https://twitter.com/ajmal_maherukh> <img src="https://img.shields.io/badge/-Twitter-0e76a8?style=plastic&logo=Twitter"> </a>
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Maherukh.Maherukh)
 👨‍💻 I am a Front-end web developer from India.
 

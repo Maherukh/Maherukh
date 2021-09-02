@@ -1,8 +1,6 @@
 # Hi there 👋 I am Md Maherukh Ajmal
 ##I am a Front-end web developer from India.
-Find me at: <a href=https://www.linkedin.com/in/m-ajmal/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <a href=https://twitter.com/ajmal_maherukh> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+Find me at: <a href=https://www.linkedin.com/in/m-ajmal/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <a href=https://twitter.com/ajmal_maherukh> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=Twitter"> </a>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Maherukh&theme=tokyonight&show_icons=true&count_private=true">

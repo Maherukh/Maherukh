@@ -6,7 +6,7 @@
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Maherukh.Maherukh)
 👨‍💻 I am a Front-end web developer from India. I love programming, writing, speaking and traveling.
 
-I am currenlty working at TCS as a web developer.
+I am currenlty working at TCS.
 
 
 ## ✨ My Tech Stack:

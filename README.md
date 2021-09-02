@@ -1,4 +1,4 @@
-# Hi there 👋 I am Md Maherukh Ajmal 🙌
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am <a href="https://gkassym.netlify.app" target="_blank"> Md Maherukh Ajmal</a>  🙌
 <a href=https://www.linkedin.com/in/m-ajmal/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <a href=https://twitter.com/ajmal_maherukh> <img src="https://img.shields.io/badge/-Twitter-0e76a8?style=plastic&logo=Twitter"> </a>
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Maherukh.Maherukh)
 👨‍💻 I am a Front-end web developer from India.

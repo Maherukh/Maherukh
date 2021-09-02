@@ -6,6 +6,9 @@ Find me at: <a href=https://www.linkedin.com/in/m-ajmal/> <img src="https://img.
 <img src="https://github-readme-stats.vercel.app/api?username=Maherukh&theme=tokyonight&show_icons=true&count_private=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maherukh&theme=tokyonight&layout=&langs_count=5">
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Maherukh)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Maherukh/Maherukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

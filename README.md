@@ -29,7 +29,7 @@ I am currenlty working at TCS as a web developer.
 ## 😄 Talking about Personal Stuffs:
 - 🌱 I’m currently learning Backend on [Udemy](https://udemy.com/);
 - 🤔 I’m looking for help with ExpressJS;
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to help on Front-end;
 - 📫 How to reach me: maherukh1999@gmail.com;
 
 ## 📈 My GitHub Stats:

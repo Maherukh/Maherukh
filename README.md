@@ -1,7 +1,7 @@
 # Hi there 👋 I am Md Maherukh Ajmal
 ##I am a Front-end web developer from India.
 Find me at: 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maherukh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=Maherukh&theme=tokyonight&show_icons=true&count_private=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maherukh&theme=tokyonight&layout=&langs_count=5">

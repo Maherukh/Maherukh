@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Md Maherukh Ajmal
+## I am a Front-end web developer from India.
+
 <img src="https://github-readme-stats.vercel.app/api?username=Maherukh&theme=tokyonight&show_icons=true&count_private=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maherukh&theme=tokyonight&layout=&langs_count=5">
 

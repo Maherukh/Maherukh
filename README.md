@@ -9,7 +9,7 @@
 I am currenlty working at TCS as a web developer.
 
 
-✨ **My Tech Stack:**
+## ✨ My Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -26,13 +26,13 @@ I am currenlty working at TCS as a web developer.
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 
 
-😄 **Talking about Personal Stuffs:**
+## 😄 Talking about Personal Stuffs:
 - 🌱 I’m currently learning Backend on [Udemy](https://udemy.com/);
 - 🤔 I’m looking for help with ExpressJS;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: maherukh1999@gmail.com;
 
-📈 **My GitHub Stats:**
+## 📈 My GitHub Stats:
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maherukh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />

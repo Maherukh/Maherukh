@@ -5,7 +5,6 @@
 - 👨‍💻 I am a Front-end web developer from India. I love programming, writing, speaking and traveling.
 - ⚒️ I am currenlty working at [MAQ Software](https://maqsoftware.com/).
 
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
